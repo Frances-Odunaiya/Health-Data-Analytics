@@ -46,9 +46,16 @@ The Health Data Analytics Project is designed to analyze a wide range of health-
 #### Getting Started
 To explore the project, clone the repository and navigate through the Jupyter notebooks to understand the analysis and visualizations. The Tableau dashboard provides an interactive way to delve deeper into the insights derived from the data.
 
-bash
-git clone https://github.com/yourusername/health-data-analytics.git
-cd health-data-analytics
+## Installation & Usage
+1. Clone the repository:
+      ```bash
+      Copy code
+      git clone https://github.com/yourusername/health-data-analytics.git
+   
+2. Install required dependencies:
+     ```bash
+     Copy code
+     pip install -r requirements.txt
 
 #### Insights
 - Gender Distribution: Is there an imbalance in the gender distribution? The dataset reveals a balanced gender distribution, with males constituting X% and females Y% of the total patient population. This near-equal representation ensures that any analysis derived from the dataset is not skewed by gender imbalance, allowing for more accurate and reliable conclusions regarding healthcare outcomes and demographic trends.
