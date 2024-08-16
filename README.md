@@ -58,7 +58,7 @@ To explore the project, clone the repository and navigate through the Jupyter no
      pip install -r requirements.txt
 
 #### Insights
-- Gender Distribution: Is there an imbalance in the gender distribution? The dataset reveals a balanced gender distribution, with males constituting X% and females Y% of the total patient population. This near-equal representation ensures that any analysis derived from the dataset is not skewed by gender imbalance, allowing for more accurate and reliable conclusions regarding healthcare outcomes and demographic trends.
+- Gender Distribution: Is there an imbalance in the gender distribution? The dataset reveals a balanced gender distribution. This near-equal representation ensures that any analysis derived from the dataset is not skewed by gender imbalance, allowing for more accurate and reliable conclusions regarding healthcare outcomes and demographic trends.
 
 - Blood Type Distribution: Which blood types are most or least common? Upon reviewing the dataset, we found that [Blood Type A+] is the most common in females, followed by [Blood Type B-] in males . The least common blood type is [Blood Type A+] in males. This distribution is not consistent with general population trends, where certain blood types are naturally more prevalent. Understanding the distribution of blood types can help in planning for blood bank inventories and managing transfusion needs efficiently.
 
