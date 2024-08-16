@@ -2,7 +2,7 @@
 This repository contains a comprehensive Health Data Analytics project utilizing datasets sourced from [Kaggle](https://www.kaggle.com/datasets/muhammadehsan000/healthcare-dataset-2019-2024?resource=download). The primary goal of this project is to analyze and visualize health-related data to uncover valuable insights that can aid healthcare professionals and organizations in making informed decisions. By leveraging the power of Python libraries and Tableau, this project provides an interactive and intuitive dashboard for exploring the data. 
 View the interactive dashboard [here](https://public.tableau.com/views/HealthInsightDashboard/HealthInsightDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-<img src = "" alt ="" width ="" height = ""> <img src = "" alt ="" width ="" height = ""> <img src = "" alt ="" width ="" height = "">
+<img src = "https://github.com/Frances-Odunaiya/Health-Data-Analytics/blob/main/Visualizations%20snippet/HeatMap%20of%20Gender%20vs%20Medical%20Condition.png" alt ="Visuals1" width ="15px" height = "15px"> <img src = "" alt ="" width ="" height = ""> <img src = "" alt ="" width ="" height = "">
 
 ### Project Description
 The Health Data Analytics Project is designed to analyze a wide range of health-related data, focusing on demographic, medical, and financial variables. This project is divided into several key components:
